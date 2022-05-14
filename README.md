@@ -1,3 +1,7 @@
+
+
+https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&link=https://knotters.org&style=for-the-badge
+
 <h1 align="center"><b> ⚡ Yuriko Robot ⚡ </b></h1>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
